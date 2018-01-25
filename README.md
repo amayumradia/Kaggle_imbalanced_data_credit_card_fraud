@@ -1,4 +1,4 @@
-# imbalanced_data_credit_card_fraud
+# Kaggle Dataset for imbalanced data of credit_card_fraud transcation
 ## Highly imbalanced data was classifed using various classification techniques.
 ### - Logistic Regression
 ###      With and without class weights 
